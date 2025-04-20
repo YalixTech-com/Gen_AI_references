@@ -8,3 +8,6 @@
 
 ### Visual AI
 - https://va.landing.ai/home
+
+### Prompting guide
+- https://cookbook.openai.com/examples/gpt4-1_prompting_guide
