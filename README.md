@@ -2,6 +2,9 @@
 
 ## URLs
 
+### Basic AI
+- https://www.youtube.com/watch?v=PvDaPeQjxOE
+
 ### Visualization Tools
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - An interactive visualization tool that helps understand how Transformer models work by exploring attention mechanisms and model architecture.
 - Repository: git@github.com:YalixTech-com/Gen_AI_references.git
@@ -16,7 +19,6 @@
 ### Guides and Learning
 - [AI Pedagogy](https://aipedagogy.org/) - Resources and insights on AI education and pedagogy.
 - [Prompting Guide](https://www.promptingguide.ai/) - Comprehensive guide to prompt engineering techniques and best practices.
-- https://www.youtube.com/watch?v=PvDaPeQjxOE
 
 ### eBooks
 - [deeplearning.ai eBooks](https://www.deeplearning.ai/resources/#ebooks) - A collection of foundational and advanced eBooks on AI and machine learning, including works by Andrew Ng and other leading experts.
