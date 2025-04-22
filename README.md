@@ -6,6 +6,7 @@
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - An interactive visualization tool that helps understand how Transformer models work by exploring attention mechanisms and model architecture.
 - Repository: git@github.com:YalixTech-com/Gen_AI_references.git
 - https://www.3blue1brown.com/lessons/gpt
+- https://www.anthropic.com/research/tracing-thoughts-language-model
 
 ### Roadmaps
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer) - Focuses on skills and tools for developing, training, and deploying intelligent systems, especially deep learning models.
