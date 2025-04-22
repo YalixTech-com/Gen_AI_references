@@ -25,3 +25,6 @@
 
 ### Prompting guide
 - https://cookbook.openai.com/examples/gpt4-1_prompting_guide
+
+### Thought leaders 
+- https://danielmiessler.com/blog/
