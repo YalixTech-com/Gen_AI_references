@@ -16,6 +16,7 @@
 ### Guides and Learning
 - [AI Pedagogy](https://aipedagogy.org/) - Resources and insights on AI education and pedagogy.
 - [Prompting Guide](https://www.promptingguide.ai/) - Comprehensive guide to prompt engineering techniques and best practices.
+- https://www.youtube.com/watch?v=PvDaPeQjxOE
 
 ### eBooks
 - [deeplearning.ai eBooks](https://www.deeplearning.ai/resources/#ebooks) - A collection of foundational and advanced eBooks on AI and machine learning, including works by Andrew Ng and other leading experts.
