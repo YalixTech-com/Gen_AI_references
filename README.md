@@ -29,6 +29,7 @@
 
 ### Prompting guide
 - https://cookbook.openai.com/examples/gpt4-1_prompting_guide
+- https://github.com/github/awesome-copilot
 
 ### Thought leaders 
 - https://danielmiessler.com/blog/
